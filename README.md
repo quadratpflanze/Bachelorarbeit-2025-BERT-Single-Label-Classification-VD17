@@ -1,1 +1,1 @@
-# Bachelorarbeit-2025-BERT-Single-Label-Classification-VD17
+# Bachelorthesis-2025-BERT-Single-Label-Classification-VD17
