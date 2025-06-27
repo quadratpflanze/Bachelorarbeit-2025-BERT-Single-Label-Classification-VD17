@@ -1,0 +1,48 @@
+D:\Wolf\VD17bert\.venv\Scripts\python.exe D:\Wolf\VD17bert\testingProbabilitiesBertAllLabels.py 
+Label 0 (Lyrik):
+  P(Lyrik) = 0.6738
+  P(Leichenpredigt) = 0.1885
+  P(Flugschrift) = 0.0280
+  P(Streitschrift:theol.) = 0.0666
+  P(Verordnung) = 0.0329
+  P(Meßkatalog) = 0.0103
+
+Label 1 (Leichenpredigt):
+  P(Lyrik) = 0.0810
+  P(Leichenpredigt) = 0.7714
+  P(Flugschrift) = 0.0225
+  P(Streitschrift:theol.) = 0.0800
+  P(Verordnung) = 0.0347
+  P(Meßkatalog) = 0.0103
+
+Label 4 (Verordnung):
+  P(Lyrik) = 0.0446
+  P(Leichenpredigt) = 0.0440
+  P(Flugschrift) = 0.3677
+  P(Streitschrift:theol.) = 0.2058
+  P(Verordnung) = 0.3171
+  P(Meßkatalog) = 0.0208
+
+Label 2 (Flugschrift):
+  P(Lyrik) = 0.0991
+  P(Leichenpredigt) = 0.0306
+  P(Flugschrift) = 0.4115
+  P(Streitschrift:theol.) = 0.2187
+  P(Verordnung) = 0.2283
+  P(Meßkatalog) = 0.0118
+
+Label 3 (Streitschrift:theol.):
+  P(Lyrik) = 0.1285
+  P(Leichenpredigt) = 0.1990
+  P(Flugschrift) = 0.2023
+  P(Streitschrift:theol.) = 0.3305
+  P(Verordnung) = 0.1273
+  P(Meßkatalog) = 0.0124
+
+Label 5 (Meßkatalog):
+  P(Lyrik) = 0.0115
+  P(Leichenpredigt) = 0.0161
+  P(Flugschrift) = 0.0035
+  P(Streitschrift:theol.) = 0.0059
+  P(Verordnung) = 0.0085
+  P(Meßkatalog) = 0.9545
