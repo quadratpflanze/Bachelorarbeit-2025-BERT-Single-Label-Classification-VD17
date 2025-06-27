@@ -1,0 +1,10 @@
+{'eval_loss': 1.1639173030853271, 'eval_Accuracy': 0.5853658536585366, 'eval_runtime': 0.4414, 'eval_samples_per_second': 278.637, 'eval_steps_per_second': 36.245, 'epoch': 1.0}
+>>> Epoch 1 – Train Loss: 0.9888, Train Acc:  0.6509
+
+{'eval_loss': 0.7947829365730286, 'eval_Accuracy': 0.7479674796747967, 'eval_runtime': 0.4697, 'eval_samples_per_second': 261.877, 'eval_steps_per_second': 34.065, 'epoch': 2.0}
+>>> Epoch 2 – Train Loss: 0.6067, Train Acc:  0.7864
+
+{'eval_loss': 0.7527344822883606, 'eval_Accuracy': 0.7479674796747967, 'eval_runtime': 0.4469, 'eval_samples_per_second': 275.236, 'eval_steps_per_second': 35.803, 'epoch': 3.0}
+>>> Epoch 3 – Train Loss: 0.5041, Train Acc:  0.8518
+
+Finale Test-Metriken: {'eval_loss': 0.8901988863945007, 'eval_Accuracy': 0.6398026315789473, 'eval_runtime': 4.5905, 'eval_samples_per_second': 264.895, 'eval_steps_per_second': 33.112, 'epoch': 3.0}
