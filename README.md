@@ -37,4 +37,4 @@
 6. Das Skript, das zur Ermittlung der Wahrscheinlichkeiten pro Label für ein geladenes Modell, welches zuvor den Prozess des Finetunings unterlaufen ist, genutzt wurde. Der Modellpfad muss an das zu testende Modell angepasst werden. Läuft mit Python 3.10. Pakete siehe 5. <br>
 7.-10.: Die Konsolenausgabe beim Finetuning mit den im Filename genannten Parametern (Testreihe 1 dieser Arbeit) als Textdatei.<br>
 11. und 12.: Die Konsolenausgabe für die Testung der Labelwahrscheinlichkeiten der Modelle mit den im Filename genannten Parametern als Textdatei.<br>
-13.-22.: Testreihe zu den weight decay Anpassungen mit jeweils 5 Testungen pro Parameteränderung als Textdatei<br>
+13.-22.: Testreihe zu den weight decay Anpassungen mit jeweils 5 Testungen pro Parameteränderung als Textdatei.<br>
